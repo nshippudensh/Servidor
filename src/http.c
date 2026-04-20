@@ -6,7 +6,7 @@
 #include <stdbool.h>
 
 #include "http.h"
-#include "route.h"
+#include "../include/route.h"
 
 extern Route routes[];
 extern int route_count;
