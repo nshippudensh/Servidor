@@ -1,6 +1,8 @@
 #include "route.h"
 #include "http.h"
 
+#include <string>
+
 Route routes[MAX_ROUTES];
 int route_count = 0;
 
